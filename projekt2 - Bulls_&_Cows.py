@@ -83,7 +83,6 @@ while True:
     else:
         print(f"{bull} bulls, {crow} cows")
 
-
 if pokusy <= 3:
     print("That was unreal. You're probably telepathic!")
 elif 3 < pokusy <= 10:
